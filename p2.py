@@ -64,6 +64,7 @@ def symmetry(a):
     else:
         print("The entered string is not symmetrical")
          
+         gszcjkhsaiuedujzujhsujhed;
 # Driver code
 string = 'amaama'
 palindrome(string)
